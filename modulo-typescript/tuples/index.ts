@@ -1,0 +1,1 @@
+const stringNumber: [string, number] = ['hello', 42]
